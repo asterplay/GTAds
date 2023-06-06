@@ -11,7 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
-  flutter_tencentad: ^1.2.15
+  flutter_tencentad:
+    git:
+      url: git@github.com:asterplay/flutter_tencentad.git
   gtads: ^1.2.0
 #  gtads:
 #    path: ../gtads
