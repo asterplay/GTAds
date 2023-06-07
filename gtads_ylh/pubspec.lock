@@ -57,10 +57,11 @@ packages:
   flutter_tencentad:
     dependency: "direct main"
     description:
-      name: flutter_tencentad
-      sha256: "6671198699f0e2cfd33d76515db9f2429717f104fe1899b21013766dc67a1d04"
-      url: "https://pub.flutter-io.cn"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: a5be9235bc7ab9969f57a17a53d3f7f0d795d139
+      url: "git@github.com:asterplay/flutter_tencentad.git"
+    source: git
     version: "1.2.15"
   flutter_test:
     dependency: "direct dev"
